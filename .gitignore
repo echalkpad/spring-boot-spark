@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+build
+.idea
+.gradle
+spark-example.iml
+spark-example.ipr
+spark-example.iws
